@@ -1,3 +1,4 @@
+{este archivo es el analizador sintactico}
 unit sqlscanner;
 
 interface
